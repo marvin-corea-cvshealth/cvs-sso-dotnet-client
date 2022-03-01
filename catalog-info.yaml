@@ -16,6 +16,7 @@ metadata:
       icon: code
   annotations:
     github.com/project-slug: marvin-corea-cvshealth/cvs-sso-dotnet-client
+    backstage.io/view-url: https://github.com/marvin-corea-cvshealth/cvs-sso-dotnet-client/blob/main/catalog-info.yaml
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
