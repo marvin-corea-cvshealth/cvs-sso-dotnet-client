@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cvs-sso-dotnet-client
+  description: A .Net client for CVS SSO.
+  tags: 
+    - java
+    - sso
+    - client
+  annotations:
+    github.com/project-slug: marvin-corea-cvshealth/cvs-sso-dotnet-client
+spec:
+  type: sso
+  lifecycle: dev
+  owner: devsecops
+  system: dotnet
