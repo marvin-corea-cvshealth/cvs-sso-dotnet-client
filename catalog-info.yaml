@@ -4,7 +4,7 @@ metadata:
   name: cvs-sso-dotnet-client
   description: A .Net client for CVS SSO.
   tags: 
-    - java
+    - dotnet
     - sso
     - client
   annotations:
