@@ -16,7 +16,7 @@ metadata:
       icon: code
   annotations:
     github.com/project-slug: marvin-corea-cvshealth/cvs-sso-dotnet-client
-    backstage.io/techdocs-ref: https://github.com/marvin-corea-cvshealth/cvs-sso-python-client/blob/main/README.md
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   lifecycle: experimental
