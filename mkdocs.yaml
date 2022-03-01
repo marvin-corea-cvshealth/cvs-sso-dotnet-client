@@ -1,11 +1,4 @@
-site_name: 'backstage-example'
+site_name: 'cvs-sso-dotnet-client'
 
 nav:
   - Home: README.md
-  - Getting Started: getting-started.md
-  - Kafka: 
-    - Consumed Topics: kafka/topics-consumed.md
-    - Provided Topics: kafka/topics-provided.md
-
-plugins:
-  - techdocs-core
